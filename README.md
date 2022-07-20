@@ -1,3 +1,3 @@
 # PrimaTema
 
-Prima Tema din Cadrul cursului
+Prima Tema din cadrul cursului
